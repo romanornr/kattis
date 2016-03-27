@@ -1,0 +1,16 @@
+{
+    "problem": "spavanac",
+    "solution": "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\solution.js",
+    "samples": {
+        "ans": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.1.ans",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.2.ans",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.3.ans"
+        ],
+        "in": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.1.in",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.2.in",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\spavanac\\samples\\spavanac.3.in"
+        ]
+    }
+}

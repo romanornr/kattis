@@ -1,0 +1,12 @@
+{
+    "problem": "speedlimit",
+    "solution": "C:\\xampp\\htdocs\\kattis\\testing\\solution.js",
+    "samples": {
+        "ans": [
+            "C:\\xampp\\htdocs\\kattis\\testing\\samples\\sample.ans"
+        ],
+        "in": [
+            "C:\\xampp\\htdocs\\kattis\\testing\\samples\\sample.in"
+        ]
+    }
+}
