@@ -1,10 +1,4 @@
-var line; 
 var temp = [];
-
-var show = function(map){
-	print(Object.keys(map).length);
-}
-
 
 while(line = readline()){
 	if(!parseInt(line)) temp.push(line);
@@ -18,4 +12,3 @@ while(line = readline()){
 	}
 }
 print(Object.keys(map).length);
-
