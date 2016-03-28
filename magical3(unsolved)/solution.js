@@ -30,19 +30,3 @@ for (var i = 2; i < 37; i++) {
 for (var i = 0; i < answer.length; i++) {
 	print(answer[i])
 }
-
-
-
-
-
-
-// console.log('hi');
-
-// var line = 11; 
-// var magic = /[3]/g;
-// base = (line >>> 0).toString(4);
-// if(base.match(magic)){
-// 	console.log('hi');
-// }else{
-// 	console.log('no match')
-// }
