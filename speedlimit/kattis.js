@@ -1,1 +1,0 @@
-var kattis = require('kattis');
