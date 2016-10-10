@@ -1,0 +1,14 @@
+{
+    "problem": "tri",
+    "solution": "/home/romano/github/kattis\\tri/solution.js",
+    "samples": {
+        "ans": [
+            "/home/romano/github/kattis/tri/samples/tri-01.ans",
+            "/home/romano/github/kattis/tri/samples/tri-02.ans"
+        ],
+        "in": [
+            "/home/romano/github/kattis/tri/samples/tri-01.in",
+            "/home/romano/github/kattis/tri/samples/tri-02.in"
+        ]
+    }
+}

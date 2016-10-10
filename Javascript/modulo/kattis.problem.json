@@ -1,0 +1,16 @@
+{
+    "problem": "modulo",
+    "solution": "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\solution.js",
+    "samples": {
+        "ans": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\1.ans",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\2.ans",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\3.ans"
+        ],
+        "in": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\1.in",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\2.in",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\modulo\\samples\\3.in"
+        ]
+    }
+}

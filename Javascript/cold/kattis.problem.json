@@ -1,0 +1,14 @@
+{
+    "problem": "cold",
+    "solution": "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\cold\\solution.js",
+    "samples": {
+        "ans": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\cold\\samples\\cold-001.ans",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\cold\\samples\\cold-002.ans"
+        ],
+        "in": [
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\cold\\samples\\cold-001.in",
+            "C:\\Users\\Romano\\Documents\\GitHub\\kattis\\cold\\samples\\cold-002.in"
+        ]
+    }
+}
