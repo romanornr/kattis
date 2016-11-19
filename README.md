@@ -20,7 +20,7 @@ You probably heard of Git before, but it's possible that you haven't used it. Wr
 This guide assumes you're new to git and that you're using a Windows computer. If you're using Linux OSX, its very similar, with the exception of Windows-specifics such as installation of git.
 
 #### Table of Contents
-- [Git Tutorial for ARM Template Submissions](#git-tutorial-for-the-pct-arm-templates)
+- [Git Tutorial for organization work]
     - [Get Git Windows](#get-git-windows)
     - [Get Git Linux](#get-git-linux)
     - [Fork the Repository to your Account](#fork-the-repository-to-your-account)
